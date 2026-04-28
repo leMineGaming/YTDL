@@ -15,8 +15,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.WinForms" Version="126.2.70" />
-    <PackageReference Include="CefSharp.WinForms.NETCore" Version="126.2.70" />
+    <PackageReference Include="CefSharp.WinForms" Version="134.3.90" />
+    <PackageReference Include="CefSharp.WinForms.NETCore" Version="134.3.90" />
     <PackageReference Include="Krypton.Toolkit" Version="85.24.6.176" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="YoutubeExplode" Version="6.3.16" />
